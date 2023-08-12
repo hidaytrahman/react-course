@@ -17,7 +17,7 @@ Welcome to the Week 1 assignments for the React Fundamentals course!
 #### E-Commerce: Build a simplified e-commerce system with functionalities like product management and cart handling.
 #### Payment Processing: Create a payment processing system to manage customer balances, fund transfers, and transactions.
 
-# Getting Started
+## Getting Started
 #### Fork this repository to your GitHub account.
 #### Clone your forked repository to your local machine.
 #### Complete the assignments in the respective folders.
